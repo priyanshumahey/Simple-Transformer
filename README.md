@@ -1,4 +1,4 @@
-# Feature-Generation-with-Transformers Pre-Screening
+# Simple Transformer Architecture
 
 This repository contains a sample transformer in the file `Main.ipynb` which hosts the transformers code. The environmnet for this can be recreated with conda using the following command:
 
